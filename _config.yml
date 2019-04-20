@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: oms'blog
-description: 
+description: development place
 url: "https://omsbrd.github.io"
 baseurl: ""
 twitter_username: omsbrd
