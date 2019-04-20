@@ -3,15 +3,15 @@ email:
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
+title: oms'blog
 description: 
-url: ""
+url: "https://omsbrd.github.io"
 baseurl: ""
-twitter_username: 
+twitter_username: omsbrd
 default_img: 
 
 # Profile settings
-name: 
+name: Oh Min Seok
 profile_img: 
 profile: 
 social:
