@@ -9,14 +9,9 @@ image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
 ---
 ## 2019 04 15 코딩
-
-<figure>
-  <img src="img/keyboard.jpg" width ="600" height ="500"/>
-</figure>
-<figure>
-  <img src="keyboard.jpg" width ="600" height ="500"/>
-</figure>
-
+---
+<img src ="img/keyboard.jpg" width ="600" height ="500">
+---
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
