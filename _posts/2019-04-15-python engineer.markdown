@@ -10,9 +10,8 @@ image-sm: https://picsum.photos/500/300?image=1003
 ---
 ## 2019 04 15 코딩
 ---
-<img src ="img/keyboard.jpg" width ="600" height ="500">
----
-	public static void main(String[] args) {
+
+public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		Scanner input = new Scanner(System.in);
